@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.springBoot.config.AuditingConfig, \
+com.springBoot.config.SecurityConfig,\
+com.springBoot.config.WebMvcConfig
+
